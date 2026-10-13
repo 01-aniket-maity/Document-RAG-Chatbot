@@ -157,14 +157,3 @@ Returns a welcome message.
 - Support multi-user document management
 - Add deployment-ready Docker configuration
 
-## License
-
-This project does not appear to include a license file. If you plan to distribute or publish it, consider adding an open-source license such as MIT or Apache 2.0.
-
-## Author
-
-Created by: 01-aniket-maity
-
-## Repository
-
-https://github.com/01-aniket-maity/Document-RAG-Chatbot
