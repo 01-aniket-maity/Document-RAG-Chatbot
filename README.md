@@ -1,10 +1,10 @@
-# ChatDoc-AI
+# 🤖ChatDoc-AI 
 
 A full-stack Retrieval-Augmented Generation (RAG) chatbot for querying uploaded documents. Users can upload PDF, DOCX, or TXT files, index them with embeddings, and ask questions about the content through a chat interface.
 
 The project combines a FastAPI backend for document ingestion and retrieval with a Streamlit frontend for interactive document Q&A.
 
-## Features
+## ✨Features 
 
 - Upload multiple PDF, DOCX, and TXT files
 - Extract text and split documents into chunks
@@ -15,7 +15,7 @@ The project combines a FastAPI backend for document ingestion and retrieval with
 - Works with Google Gemini for answer generation
 - Simple local web UI for end-to-end usage
 
-## Tech Stack
+## 🛠️Tech Stack
 
 - Python
 - FastAPI
@@ -26,7 +26,7 @@ The project combines a FastAPI backend for document ingestion and retrieval with
 - Google Generative AI (Gemini)
 - pypdf, docx2txt, python-dotenv
 
-## Project Structure
+## 📖Project Structure
 
 ```text
 Document-RAG-Chatbot/
@@ -41,7 +41,7 @@ Document-RAG-Chatbot/
 └── README.md
 ```
 
-## How It Works
+## ⚙️How It Works
 
 1. A user uploads one or more documents from the Streamlit app.
 2. The backend accepts the files and saves them temporarily.
