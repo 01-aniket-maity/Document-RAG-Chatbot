@@ -1,4 +1,4 @@
-# Document RAG Chatbot
+# ChatDoc-AI
 
 A full-stack Retrieval-Augmented Generation (RAG) chatbot for querying uploaded documents. Users can upload PDF, DOCX, or TXT files, index them with embeddings, and ask questions about the content through a chat interface.
 
